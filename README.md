@@ -14,7 +14,7 @@ O **ESP32-S3 DevKitC-1 N8R2** é um microcontrolador com antena integrada, ideal
 - **LED RGB:** Integrado, controlado pela porta GPIO 48.
 - **Conectividade:** WiFi 802.11 b/g/n (2.4 GHz) e Bluetooth 5.0.
 - **Dimensões:** ~64x27x4,5mm.
-
+<img src="fig1.jpeg" alt="esp23 pins" width="300">
 ---
 
 ## **Detalhes do Hardware**
