@@ -4,6 +4,8 @@
 
 O **ESP32-S3 DevKitC-1 N8R2** é um microcontrolador com antena integrada, ideal para projetos de IoT (Internet das Coisas). Ele se destaca pelo seu hardware poderoso, baixo custo e conectividade WiFi e Bluetooth/BLE 5.0. É amplamente aplicado em projetos eletrônicos, como computação de rede neural, IA e IAIoT (Inteligência Artificial das Coisas).
 
+<img src="esp32 s3.jpeg" alt="Diagrama do ESP32" width="400">
+
 ## **Características Principais**
 - **Microprocessador:** Xtensa 32-Bits LX7 Dual Core com baixo consumo de energia.
 - **Memória:** Flash externa de 8 MB (QD) e PSRAM de 2 MB (QD).
@@ -12,7 +14,7 @@ O **ESP32-S3 DevKitC-1 N8R2** é um microcontrolador com antena integrada, ideal
 - **LED RGB:** Integrado, controlado pela porta GPIO 48.
 - **Conectividade:** WiFi 802.11 b/g/n (2.4 GHz) e Bluetooth 5.0.
 - **Dimensões:** ~64x27x4,5mm.
-
+<img src="fig1.jpeg" alt="esp23 pins" width="300">
 ---
 
 ## **Detalhes do Hardware**
