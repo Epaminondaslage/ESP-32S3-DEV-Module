@@ -1,9 +1,6 @@
-# ESP-32S3-DEV-Module
-
-
-
-## Placa ESP32S3 DEV Module
 # Módulo ESP32-S3 DevKitC-1 N8R2 com WiFi e Bluetooth/BLE 5.0 - USB-C
+
+## Escolher a **Placa ESP32S3 DEV Module** na IDE Arduino
 
 O **ESP32-S3 DevKitC-1 N8R2** é um microcontrolador com antena integrada, ideal para projetos de IoT (Internet das Coisas). Ele se destaca pelo seu hardware poderoso, baixo custo e conectividade WiFi e Bluetooth/BLE 5.0. É amplamente aplicado em projetos eletrônicos, como computação de rede neural, IA e IAIoT (Inteligência Artificial das Coisas).
 
@@ -62,7 +59,7 @@ O **ESP32-S3 DevKitC-1 N8R2** é um microcontrolador com antena integrada, ideal
 
 ## **Diagrama de Componentes**
 
-![Diagrama de Componentes ESP32-S3](file:///C:/Users/epami/Downloads/datasheet%20ESP32-S3-WROOM-1.pdf)
+![Diagrama de Componentes ESP32-S3](datasheet%20ESP32-S3-WROOM-1.pdf)
 
 - **Antena Integrada:** Ideal para conectividade WiFi e Bluetooth.
 - **Porta USB-C:** Suporte a OTG e debug.
@@ -92,7 +89,5 @@ O **ESP32-S3 DevKitC-1 N8R2** é um microcontrolador com antena integrada, ideal
 | **Peso**                      | 8,5 g                                     |
 
 ---
-
-Se precisar de mais informações, consulte o [Datasheet do ESP32-S3-WROOM-1](file:///C:/Users/epami/Downloads/datasheet%20ESP32-S3-WROOM-1.pdf).
 
 
