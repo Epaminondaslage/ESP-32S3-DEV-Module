@@ -95,6 +95,10 @@ O **ESP32-S3 DevKitC-1 N8R2** é um microcontrolador com antena integrada, ideal
 
 # Documentação do Código: BLE Scan com Controle de LED RGB
 
+### Protótipo
+
+<img src="prototipo.jpeg" alt="Prototipo" width="400">
+
 ## Resumo
 Este código implementa a funcionalidade de varredura de dispositivos BLE (Bluetooth Low Energy) utilizando um ESP32. Além disso, controla um LED RGB para indicar diferentes estados durante a execução.
 
