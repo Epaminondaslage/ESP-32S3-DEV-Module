@@ -145,7 +145,7 @@ Este código implementa a funcionalidade de varredura de dispositivos BLE (Bluet
 Iniciando varredura BLE...
 
 Dispositivos encontrados (ordem por distância):
-----------------------------------------------
+
 | Dispositivo | MAC               | RSSI  | Distância (m) |
 |-------------|-------------------|-------|---------------|
 |             | ef:1d:5a:03:aa:4d | -79   | 8.65          |
