@@ -134,7 +134,7 @@ Este código implementa a funcionalidade de varredura de dispositivos BLE (Bluet
     * Determina a cor com base nos dispositivos detectados:
        *  Verde: Dispositivo próximo 
        *  Azul: Dispositivos encontrados.
-      *   Vermelho: Nenhum dispositivo.
+       *  Vermelho: Nenhum dispositivo.
 
 ### Atraso:
 
@@ -142,19 +142,35 @@ Este código implementa a funcionalidade de varredura de dispositivos BLE (Bluet
 ---
 ## Saida serial do ESP32 
 
+Iniciando varredura BLE...
+
+Dispositivos encontrados (ordem por distância):
+----------------------------------------------
 | Dispositivo | MAC               | RSSI  | Distância (m) |
 |-------------|-------------------|-------|---------------|
-|             | de:2d:c4:6e:2d:5e | -86   | 16.55         |
-|             | b0:e4:5c:42:b1:6b | -86   | 16.55         |
-|             | c2:22:77:97:a1:63 | -89   | 21.52         |
-|             | 57:a9:61:e4:ca:e2 | -89   | 21.52         |
-|             | d0:95:68:a5:01:49 | -90   | 23.44         |
-|             | 51:29:75:88:1c:03 | -92   | 27.75         |
-|             | 7d:ac:b8:55:ef:04 | -92   | 27.75         |
-|             | 70:fe:1f:c2:5b:52 | -92   | 27.75         |
-|             | 36:b9:72:9b:25:b1 | -93   | 30.16         |
-|             | 3e:87:6a:81:14:91 | -94   | 32.74         |
-|             | 6e:9a:41:ef:ab:ab | -94   | 32.74         |
+|             | ef:1d:5a:03:aa:4d | -79   | 8.65          |
+|             | 10:3e:9d:bc:a1:b9 | -79   | 8.65          |
+|             | d5:8f:86:b1:28:dd | -81   | 10.47         |
+|             | 7f:3d:90:af:5a:c4 | -81   | 10.47         |
+|             | 72:e7:18:8c:51:94 | -82   | 11.49         |
+|             | de:c8:10:dc:12:04 | -82   | 11.49         |
+|             | 73:2b:d5:75:23:f5 | -82   | 11.49         |
+|             | 1c:08:b8:44:d5:d7 | -82   | 11.49         |
+|             | 46:6c:83:08:1c:14 | -85   | 15.13         |
+|             | c2:22:77:97:a1:63 | -85   | 15.13         |
+|             | 60:7c:9e:28:be:4e | -86   | 16.55         |
+|             | d1:0a:47:62:75:89 | -87   | 18.08         |
+|             | 28:f5:fb:cf:3f:d5 | -87   | 18.08         |
+|             | 4e:47:19:a5:70:38 | -88   | 19.73         |
+|             | 3e:87:6a:81:14:91 | -91   | 25.52         |
+|             | d0:95:68:a5:01:49 | -91   | 25.52         |
+|             | 36:b9:72:9b:25:b1 | -91   | 25.52         |
+|             | de:2d:c4:6e:2d:5e | -91   | 25.52         |
+|             | 32:64:c2:ff:a1:bd | -92   | 27.75         |
+|             | f8:64:df:11:03:56 | -94   | 32.74         |
+|             | f0:e8:8d:be:9e:7a | -95   | 35.51         |
+|             | 7a:37:8d:36:91:0d | -97   | 41.68         |
 ----------------------------------------------
+
 
 
