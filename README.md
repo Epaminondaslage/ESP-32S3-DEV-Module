@@ -1,6 +1,6 @@
-# Módulo ESP32-S3 DevKitC-1 N8R2 com WiFi e Bluetooth/BLE 5.0 - USB-C
+# Scan BLE com Módulo ESP32-S3 DevKitC-1 N8R2, WiFi e Bluetooth/BLE 5.0 - USB-C
 
-## Escolher a **Placa ESP32S3 DEV Module** na IDE Arduino
+## Escolher na IDE Arduino a **Placa ESP32S3 DEV Module** na IDE Arduino
 
 O **ESP32-S3 DevKitC-1 N8R2** é um microcontrolador com antena integrada, ideal para projetos de IoT (Internet das Coisas). Ele se destaca pelo seu hardware poderoso, baixo custo e conectividade WiFi e Bluetooth/BLE 5.0. É amplamente aplicado em projetos eletrônicos, como computação de rede neural, IA e IAIoT (Inteligência Artificial das Coisas).
 
@@ -123,6 +123,16 @@ Este código implementa a funcionalidade de varredura de dispositivos BLE (Bluet
 
 ## Fluxo do código
 
+### Libs utilizadas
+
+´´´
+#include <BLEDevice.h>
+#include <BLEScan.h>
+#include <BLEUtils.h>
+#include <vector>
+#include <algorithm>
+
+´´´
 ### Varredura BLE:
 
     * Realiza a varredura por 5 segundos.
