@@ -125,14 +125,14 @@ Este código implementa a funcionalidade de varredura de dispositivos BLE (Bluet
 
 ### Libs utilizadas
 
-´´´
+''' 
 #include <BLEDevice.h>
 #include <BLEScan.h>
 #include <BLEUtils.h>
 #include <vector>
 #include <algorithm>
+''' 
 
-´´´
 ### Varredura BLE:
 
     * Realiza a varredura por 5 segundos.
