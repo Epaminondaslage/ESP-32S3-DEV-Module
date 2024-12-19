@@ -97,7 +97,7 @@ O **ESP32-S3 DevKitC-1 N8R2** é um microcontrolador com antena integrada, ideal
 
 ### Protótipo
 
-<img src="Prototipo.jpg" alt="Prototipo" width="400">
+<img src="prototipo.jpg" alt="Prototipo" width="400">
 
 ## Resumo
 Este código implementa a funcionalidade de varredura de dispositivos BLE (Bluetooth Low Energy) utilizando um ESP32. Além disso, controla um LED RGB para indicar diferentes estados durante a execução.
